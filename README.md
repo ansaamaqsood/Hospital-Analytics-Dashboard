@@ -1,54 +1,76 @@
-# Hospital Analytics Dashboard
 
-## Project Overview
-This project is an interactive Hospital Analytics Dashboard built using Power BI and Excel.
+# 🏥 Hospital Analytics Dashboard
 
-The dashboard provides insights into:
-- Revenue Analysis
-- Appointment Trends
-- Doctor Performance
-- Patient Age Distribution
-- Payment Status Analysis
+## 📌 Project Overview
+This Power BI dashboard provides insights into hospital operations, financial performance, doctor analytics, and patient trends.  
+The dashboard helps analyze appointments, revenue, payment status, doctor performance, and patient demographics.
 
 ---
 
-## Tools Used
+## 🚀 Tools & Technologies Used
 - Power BI
 - Excel
-- Power Query
-- Data Modeling
 - DAX
+- Data Modeling
+- Power Query
+- Star Schema
 
 ---
 
-## Dashboard Pages
-### 1. Executive Overview
-- KPI Cards
-- Appointment Trends
-- Payment Status Analysis
+## 📊 Dashboard Pages
 
-### 2. Doctor Analytics
+### 1️⃣ Executive Overview
+Provides high-level KPIs and hospital performance insights:
+- Total Revenue
+- Total Appointments
+- Completed Appointments
+- No-show Appointments
+- Monthly Appointment Trends
+- Patient Age Distribution
+
+---
+
+### 2️⃣ Doctor Analytics
+Analyzes doctor performance:
 - Doctor Revenue
 - Doctor Appointments
 - Specialization Analysis
+- Average Experience
+- Hospital Branch Filters
 
-### 3. Financial Analytics
+---
+
+### 3️⃣ Financial Analytics
+Provides financial insights:
+- Revenue by Payment Status
 - Revenue by Payment Method
-- Monthly Revenue Trend
-- Payment Status Insights
+- Monthly Revenue Trends
+- Paid / Pending / Failed Revenue
 
 ---
 
-## Features
-- Interactive Slicers
-- Multi-page Dashboard
+## 📈 Key Features
+- Interactive slicers
+- Multi-page dashboard
+- Dynamic KPIs
+- DAX Measures
+- Tooltip Pages
 - Star Schema Relationships
-- Tooltip Support
-- Dynamic Filtering
+- Data Storytelling
 
 ---
 
-## Screenshots
+## 🧠 Skills Demonstrated
+- Business Intelligence
+- Data Visualization
+- Dashboard Design
+- Data Modeling
+- DAX Calculations
+- Analytical Thinking
+
+---
+
+## 📷 Dashboard Preview
 
 ### Executive Overview
 ![Overview](Dashboard%20Screenshots/overview-page.png)
@@ -58,3 +80,14 @@ The dashboard provides insights into:
 
 ### Financial Analytics
 ![Financial](Dashboard%20Screenshots/financial-page.png)
+
+## 📂 Project Files
+- `.pbix` Power BI dashboard file
+- Excel dataset
+- Dashboard screenshots
+
+---
+
+## 👩‍💻 Author
+**Ansa Maqsood**
+
