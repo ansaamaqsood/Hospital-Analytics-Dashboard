@@ -1,93 +1,60 @@
-# 🏥 Hospital Analytics Dashboard
+# Hospital Analytics Dashboard
 
-## 📌 Project Overview
-This Power BI dashboard provides insights into hospital operations, financial performance, doctor analytics, and patient trends.  
-The dashboard helps analyze appointments, revenue, payment status, doctor performance, and patient demographics.
+## Project Overview
+This project is an interactive Hospital Analytics Dashboard built using Power BI and Excel.
+
+The dashboard provides insights into:
+- Revenue Analysis
+- Appointment Trends
+- Doctor Performance
+- Patient Age Distribution
+- Payment Status Analysis
 
 ---
 
-## 🚀 Tools & Technologies Used
+## Tools Used
 - Power BI
 - Excel
-- DAX
-- Data Modeling
 - Power Query
-- Star Schema
+- Data Modeling
+- DAX
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
+### 1. Executive Overview
+- KPI Cards
+- Appointment Trends
+- Payment Status Analysis
 
-### 1️⃣ Executive Overview
-Provides high-level KPIs and hospital performance insights:
-- Total Revenue
-- Total Appointments
-- Completed Appointments
-- No-show Appointments
-- Monthly Appointment Trends
-- Patient Age Distribution
-
----
-
-### 2️⃣ Doctor Analytics
-Analyzes doctor performance:
+### 2. Doctor Analytics
 - Doctor Revenue
 - Doctor Appointments
 - Specialization Analysis
-- Average Experience
-- Hospital Branch Filters
 
----
-
-### 3️⃣ Financial Analytics
-Provides financial insights:
-- Revenue by Payment Status
+### 3. Financial Analytics
 - Revenue by Payment Method
-- Monthly Revenue Trends
-- Paid / Pending / Failed Revenue
+- Monthly Revenue Trend
+- Payment Status Insights
 
 ---
 
-## 📈 Key Features
-- Interactive slicers
-- Multi-page dashboard
-- Dynamic KPIs
-- DAX Measures
-- Tooltip Pages
+## Features
+- Interactive Slicers
+- Multi-page Dashboard
 - Star Schema Relationships
-- Data Storytelling
+- Tooltip Support
+- Dynamic Filtering
 
 ---
 
-## 🧠 Skills Demonstrated
-- Business Intelligence
-- Data Visualization
-- Dashboard Design
-- Data Modeling
-- DAX Calculations
-- Analytical Thinking
-
----
-
-## 📷 Dashboard Preview
+## Screenshots
 
 ### Executive Overview
-(Add Screenshot Here)
+![Overview](Dashboard%20Screenshots/overview-page.png)
 
 ### Doctor Analytics
-(Add Screenshot Here)
+![Doctor](Dashboard%20Screenshots/doctor-page.png)
 
 ### Financial Analytics
-(Add Screenshot Here)
-
----
-
-## 📂 Project Files
-- `.pbix` Power BI dashboard file
-- Excel dataset
-- Dashboard screenshots
-
----
-
-## 👩‍💻 Author
-**Ansa Maqsood**
+![Financial](Dashboard%20Screenshots/financial-page.png)
